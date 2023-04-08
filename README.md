@@ -1,2 +1,2 @@
-# FinanceMidterrm
-Rerpository for Creating Sankey Diagrams
+# FinanceMidterm
+Repository for Creating Sankey Diagrams
